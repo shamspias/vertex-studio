@@ -11,35 +11,35 @@
   "segments": [
     {
       "duration": 8,
-      "prompt": "Cinematic wide shot. An empty cricket stadium with dramatic mood lighting. A fast bowler running in slow motion towards the pitch, highly focused. Sudden freeze frame effect at the moment of delivery."
+      "prompt": "Hyper-realistic satellite view zooming rapidly down from space towards a green cricket stadium in Bangladesh. The camera transitions from clouds to the green field."
+    },
+    {
+      "duration": 7,
+      "prompt": "Cinematic medium shot. A Bangladeshi cricketer in a green and red jersey starts his bowling run-up. He looks stiff, cold, and his movement is heavy and awkward."
+    },
+    {
+      "duration": 6,
+      "prompt": "Dramatic close-up. The bowler suddenly stops mid-run, clutching his hamstring in severe pain. He falls to one knee, grimacing. A subtle red vignette pulses to indicate injury."
     },
     {
       "duration": 8,
-      "prompt": "3D medical animation. Extreme close-up of muscle fibers glowing orange and red as they heat up. Visualizing increased blood flow through veins. Scientific and clean aesthetic."
+      "prompt": "3D medical animation. Inside the human leg. Cold, blue, constricted blood vessels suddenly dilate and glow red. Blood rushes through them, warming up the muscle fibers."
     },
     {
       "duration": 8,
-      "prompt": "Cinematic slow motion. Close-up of a cricket fast bowler's front foot landing hard on the pitch. A subtle digital shockwave ripple effect extending up the leg to the lower back to visualize heavy impact force."
+      "prompt": "Montage. The same cricketer wearing training kit, performing dynamic warm-ups: high knees, leg swings, and lunges on the grass. He is sweating and looks flexible."
     },
     {
       "duration": 8,
-      "prompt": "High speed action shot. A cricket batsman swinging the bat with immense power. X-ray overlay style showing the rotation of the torso and tension in the oblique and shoulder muscles."
+      "prompt": "Slow motion action shot. The cricketer, now fully warmed up, sprinting in to bowl. His stride is long, fluid, and powerful. The mechanics are perfect."
+    },
+    {
+      "duration": 7,
+      "prompt": "Low angle impact shot. The bowler releases the ball with maximum speed. He follows through smoothly without any pain. Dust rises from the pitch."
     },
     {
       "duration": 8,
-      "prompt": "Action shot. A cricket fielder exploding from a standstill into a full sprint, then diving. Grass and dust flying. Focus on the sudden acceleration and muscle engagement."
-    },
-    {
-      "duration": 8,
-      "prompt": "Motion graphics overlay. A futuristic medical data graph floating in the air over a blurred cricket training ground background. A line graph trending downward showing injury risk reduction. High tech sports science look."
-    },
-    {
-      "duration": 8,
-      "prompt": "Montage style. A professional cricketer performing dynamic warm-up drills: high knees, hip rotations, and lunges on a sunny practice field. Fluid and controlled movement."
-    },
-    {
-      "duration": 8,
-      "prompt": "Cinematic close-up. A cricket team standing in a huddle, arms around each other. Camera pans across their intense, determined, and sweating faces. Golden hour lighting."
+      "prompt": "Cinematic medium shot. The bowler celebrating a wicket, high-fiving teammates. He looks healthy, energized, and happy. Golden hour lighting."
     }
   ]
 }
