@@ -6,24 +6,40 @@
     "person_generation": "allow_adult",
     "generate_audio": true,
     "fps": 24,
-    "negative_prompt": "blurry, distortion, low quality, bad anatomy, text, watermark, cartoon, unrealistic"
+    "negative_prompt": "blurry, distortion, low quality, bad anatomy, text, watermark, cartoon, unrealistic, deformed limbs"
   },
   "segments": [
     {
-      "duration": 6,
-      "prompt": "Cinematic 8k wide shot. An empty cricket stadium with dramatic lighting. A fast bowler running in slow motion towards the pitch. Intense atmosphere."
+      "duration": 8,
+      "prompt": "Cinematic wide shot. An empty cricket stadium with dramatic mood lighting. A fast bowler running in slow motion towards the pitch, highly focused. Sudden freeze frame effect at the moment of delivery."
     },
     {
-      "duration": 6,
-      "prompt": "3D medical animation. Extreme close-up of muscle fibers glowing orange as they warm up. Red blood cells flowing rapidly through veins."
+      "duration": 8,
+      "prompt": "3D medical animation. Extreme close-up of muscle fibers glowing orange and red as they heat up. Visualizing increased blood flow through veins. Scientific and clean aesthetic."
     },
     {
-      "duration": 6,
-      "prompt": "Cinematic slow motion. Close-up of a cricket fast bowler's foot landing hard on the pitch. Dust rising from impact. Visualizing heavy impact force."
+      "duration": 8,
+      "prompt": "Cinematic slow motion. Close-up of a cricket fast bowler's front foot landing hard on the pitch. A subtle digital shockwave ripple effect extending up the leg to the lower back to visualize heavy impact force."
     },
     {
-      "duration": 6,
-      "prompt": "High speed action shot. A cricket batsman swinging the bat with power. Focus on the torso rotation and muscular tension. Stadium background blurred."
+      "duration": 8,
+      "prompt": "High speed action shot. A cricket batsman swinging the bat with immense power. X-ray overlay style showing the rotation of the torso and tension in the oblique and shoulder muscles."
+    },
+    {
+      "duration": 8,
+      "prompt": "Action shot. A cricket fielder exploding from a standstill into a full sprint, then diving. Grass and dust flying. Focus on the sudden acceleration and muscle engagement."
+    },
+    {
+      "duration": 8,
+      "prompt": "Motion graphics overlay. A futuristic medical data graph floating in the air over a blurred cricket training ground background. A line graph trending downward showing injury risk reduction. High tech sports science look."
+    },
+    {
+      "duration": 8,
+      "prompt": "Montage style. A professional cricketer performing dynamic warm-up drills: high knees, hip rotations, and lunges on a sunny practice field. Fluid and controlled movement."
+    },
+    {
+      "duration": 8,
+      "prompt": "Cinematic close-up. A cricket team standing in a huddle, arms around each other. Camera pans across their intense, determined, and sweating faces. Golden hour lighting."
     }
   ]
 }
